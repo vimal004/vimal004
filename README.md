@@ -24,8 +24,8 @@
   ⚡️ Innovative problem-solver, blending technical skills, creativity, and collaboration
   
   👨‍💻 Actively Exploring Possibilities in Open Source Contributions
-  
-  📈 [LeetCode Profile](https://leetcode.com/vimalmanoharan2004/)
+
+  ![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-brightgreen?style=flat&logo=leetcode)
   
   ⚡️ Currently Practicing and Improving on Data Structures and Algorithms
   
@@ -38,4 +38,7 @@
 </div>
 
 <!-- GitHub Stats -->
-![Vimal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vimal004&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vimal004&show_icons=true&theme=radical" alt="Vimal's GitHub Stats"/>
+</div>
+
