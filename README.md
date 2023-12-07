@@ -17,7 +17,7 @@
   👨‍💻 Actively Exploring Possibilities in Open Source Contributions
 
   **LeetCode Profile:**
-  ![Profile]([https://img.shields.io/badge/LeetCode-Profile-brightgreen?style=flat&logo=leetcode](https://cdn-1.webcatalog.io/catalog/leetcode/leetcode-icon.png))
+  [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-brightgreen?style=flat&logo=leetcode)](https://leetcode.com/vimalmanoharan2004/)
   
   ⚡️ Currently Practicing and Improving on Data Structures and Algorithms
   
@@ -30,4 +30,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vimal004&show_icons=true&theme=radical" alt="Vimal's GitHub Stats"/>
 </div>
+
 
