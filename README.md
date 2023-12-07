@@ -17,7 +17,7 @@
   👨‍💻 Actively Exploring Possibilities in Open Source Contributions
 
   **LeetCode Profile:**
-  ![Profile](https://img.shields.io/badge/LeetCode-Profile-brightgreen?style=flat&logo=leetcode)
+  ![Profile]([https://img.shields.io/badge/LeetCode-Profile-brightgreen?style=flat&logo=leetcode](https://cdn-1.webcatalog.io/catalog/leetcode/leetcode-icon.png))
   
   ⚡️ Currently Practicing and Improving on Data Structures and Algorithms
   
