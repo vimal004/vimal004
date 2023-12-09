@@ -25,10 +25,3 @@
   
   ✉️ Email me at: 2004.vimal@gmail.com
 </div>
-
-<!-- GitHub Stats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vimal004&show_icons=true&theme=radical" alt="Vimal's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimal004&layout=compact&theme=radical" alt="Top Languages"/>
-</div>
-
